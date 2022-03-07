@@ -42,7 +42,16 @@ We compared the DRL agent with vanilla strategies, such as the classical buy and
 
 Performance assessment for all strategies
 
+<p float="left">
+  <img src="https://drive.google.com/uc?export=view&id=1LUymnVD_PiWG4geUCgwC7O21ZcaKyC_1" width="400" />
+  <img src="https://drive.google.com/uc?export=view&id=1da_qFfAIGnfcS-UQFkXbbcSitv6Ernbt" width="400" /> 
+</p>
+
+
+
 ## References
 [1] Théate, T., Ernst, D. (2021). - An application of deep reinforcement learning to algorithmic trading (Expert Systems with Applications, 173, 114632).
+
 [2] Kaufmann,E. (INRIA Lille) , Valko,M. (INRIA Lille & Deepmind) - Lecture notes on reinforcement learning (Ecole Centrale de Lille).
+
 [3] MichelFliess(LIX,INRIASaclay-IledeFrance),CédricJoin(INRIASaclay-Ile de France, CRAN) - A mathematical proof of the existence of trends in financial time series ( arXiv:0901.1945 ).
